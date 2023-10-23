@@ -1,0 +1,15 @@
+C:\Users\213043\Desktop\LAB5\213043Exercise2_lab06\213043Exercise2_lab06\bin\Debug\net6.0\213043Exercise2_lab06.exe
+C:\Users\213043\Desktop\LAB5\213043Exercise2_lab06\213043Exercise2_lab06\bin\Debug\net6.0\213043Exercise2_lab06.deps.json
+C:\Users\213043\Desktop\LAB5\213043Exercise2_lab06\213043Exercise2_lab06\bin\Debug\net6.0\213043Exercise2_lab06.runtimeconfig.json
+C:\Users\213043\Desktop\LAB5\213043Exercise2_lab06\213043Exercise2_lab06\bin\Debug\net6.0\213043Exercise2_lab06.dll
+C:\Users\213043\Desktop\LAB5\213043Exercise2_lab06\213043Exercise2_lab06\bin\Debug\net6.0\213043Exercise2_lab06.pdb
+C:\Users\213043\Desktop\LAB5\213043Exercise2_lab06\213043Exercise2_lab06\obj\Debug\net6.0\213043Exercise2_lab06.csproj.AssemblyReference.cache
+C:\Users\213043\Desktop\LAB5\213043Exercise2_lab06\213043Exercise2_lab06\obj\Debug\net6.0\213043Exercise2_lab06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\213043\Desktop\LAB5\213043Exercise2_lab06\213043Exercise2_lab06\obj\Debug\net6.0\213043Exercise2_lab06.AssemblyInfoInputs.cache
+C:\Users\213043\Desktop\LAB5\213043Exercise2_lab06\213043Exercise2_lab06\obj\Debug\net6.0\213043Exercise2_lab06.AssemblyInfo.cs
+C:\Users\213043\Desktop\LAB5\213043Exercise2_lab06\213043Exercise2_lab06\obj\Debug\net6.0\213043Exercise2_lab06.csproj.CoreCompileInputs.cache
+C:\Users\213043\Desktop\LAB5\213043Exercise2_lab06\213043Exercise2_lab06\obj\Debug\net6.0\213043Exercise2_lab06.dll
+C:\Users\213043\Desktop\LAB5\213043Exercise2_lab06\213043Exercise2_lab06\obj\Debug\net6.0\refint\213043Exercise2_lab06.dll
+C:\Users\213043\Desktop\LAB5\213043Exercise2_lab06\213043Exercise2_lab06\obj\Debug\net6.0\213043Exercise2_lab06.pdb
+C:\Users\213043\Desktop\LAB5\213043Exercise2_lab06\213043Exercise2_lab06\obj\Debug\net6.0\213043Exercise2_lab06.genruntimeconfig.cache
+C:\Users\213043\Desktop\LAB5\213043Exercise2_lab06\213043Exercise2_lab06\obj\Debug\net6.0\ref\213043Exercise2_lab06.dll
